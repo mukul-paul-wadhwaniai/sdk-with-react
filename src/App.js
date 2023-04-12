@@ -13,7 +13,7 @@ function App() {
       headers: {
         'Accept': 'application/json',
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibXNjYW4wMSIsInVzZXJfc3RhdGUiOiIiLCJleHAiOjE2ODEyODExODh9.wyt_BmQqnad_UFV8Wy3qaU9_EbI7SElRxwd9qiye6vQ',
+        'Authorization': 'Bearer ',
       }
     })
     
